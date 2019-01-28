@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\opencvprojects\数字图像处理作业&github练习\数字图像处理第四次作业（频率域滤波）\数字图像处理第四次作业（频率域滤波）\main.cpp(102): warning C4244: “+=”: 从“double”转换到“uchar”，可能丢失数据
+d:\opencvprojects\数字图像处理作业&github练习\数字图像处理第四次作业（频率域滤波）\数字图像处理第四次作业（频率域滤波）\main.cpp(103): warning C4244: “+=”: 从“double”转换到“uchar”，可能丢失数据
+d:\opencvprojects\数字图像处理作业&github练习\数字图像处理第四次作业（频率域滤波）\数字图像处理第四次作业（频率域滤波）\main.cpp(104): warning C4244: “+=”: 从“double”转换到“uchar”，可能丢失数据
+d:\opencvprojects\数字图像处理作业&github练习\数字图像处理第四次作业（频率域滤波）\数字图像处理第四次作业（频率域滤波）\main.cpp(137): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  数字图像处理第四次作业（频率域滤波）.vcxproj -> D:\opencvprojects\数字图像处理作业&Github练习\数字图像处理第四次作业（频率域滤波）\x64\Debug\数字图像处理第四次作业（频率域滤波）.exe
