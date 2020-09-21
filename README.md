@@ -1,4 +1,4 @@
 # DigitalImageProcessingLearning
-    记录本人2019寒假自学数字图像处理的作业情况，
-    （顺便练习git和github的使用） 
+    Record my work on self-taught digital image processing during the winter vacation of 2019.
+    (Practice using GIT and GitHub by the way)
    ![image](https://github.com/qq849012418/DigitalImageProcessingLearning/blob/master/image/newlogo.jpg)
